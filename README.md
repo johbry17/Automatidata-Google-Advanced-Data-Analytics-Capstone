@@ -12,7 +12,8 @@ This repository contains all class resources, coding examples, and major portfol
 3. [Key Skills and Tools](#key-skills-and-tools)
 4. [References](#references)
 5. [About the Certificate](#about-the-certificate)
-6. [Author](#author)
+6. [Certificate](#certificate)
+7. [Author](#author)
 
 ## Repository Structure
 
@@ -65,6 +66,10 @@ Throughout the program, the following skills and tools were utilized:
 The [Google Advanced Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-advanced-data-analytics) is designed to equip learners with advanced data analytics skills, including machine learning, predictive modeling, and data-driven decision-making. The program emphasizes real-world applications and prepares learners for roles such as data analysts, data scientists, and business analysts.
 
 This repository serves as a portfolio of the projects and skills developed during the program.
+
+## Certificate
+
+![Google Advanced Data Analytics Professional Certificate](./images/google_advanced_data_analytics_certificate.png)
 
 ## Author
 

@@ -12,7 +12,7 @@ This repository contains all class resources, coding examples, and major portfol
 3. [Key Skills and Tools](#key-skills-and-tools)
 4. [References](#references)
 5. [About the Certificate](#about-the-certificate)
-6. [Certificate](#certificate)
+6. [Program Certificate of Completion](#program-certificate-of-completion)
 7. [Author](#author)
 
 ## Repository Structure
@@ -67,7 +67,7 @@ The [Google Advanced Data Analytics Professional Certificate](https://www.course
 
 This repository serves as a portfolio of the projects and skills developed during the program.
 
-## Certificate
+## Program Certificate of Completion
 
 ![Google Advanced Data Analytics Professional Certificate](./images/google_advanced_data_analytics_certificate.png)
 

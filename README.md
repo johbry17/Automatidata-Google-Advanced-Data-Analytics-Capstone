@@ -1,4 +1,4 @@
-# Google-Advanced-Data-Analytics-Capstone
+# Google-Advanced-Data-Analytics-Certificate
 
 This repository contains all class resources, coding examples, and major portfolio projects completed as part of the [Google Advanced Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-advanced-data-analytics). The certificate program focuses on advanced data analytics techniques, tools, and methodologies to solve real-world business problems. This repository serves as a comprehensive showcase of the skills and knowledge gained throughout the program.
 
